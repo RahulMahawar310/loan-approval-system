@@ -220,7 +220,7 @@ export default function App() {
         <div>
           <p className="eyebrow">AI + RULE-BASED LENDING</p>
           <h1>Loan Approval System</h1>
-          <p className="sub">Neural prediction + rule-based reasoning + clear explanation</p>
+          {/* <p className="sub">Neural prediction + rule-based reasoning + clear explanation</p> */}
         </div>
         <div className="live-box">
           <span className={`pill ${pill.cls}`}>
